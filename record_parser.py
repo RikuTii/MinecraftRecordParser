@@ -3,7 +3,7 @@ from termcolor import colored
 from datetime import datetime
 import os
 
-//path to speedrunigt records
+#path to speedrunigt records
 directory = 'speedrunigt\\records'
 
 def format_milliseconds(millis):
