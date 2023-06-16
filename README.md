@@ -1,6 +1,6 @@
 # MinecraftRecordParser
 
-Script to parse SpeedrunIGT records and compare the two fastest times
+Script to parse [SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT) records and compare the two fastest runs by their splits
 
 ## Features
 * List all completed runs sorted by fastest to slowest
